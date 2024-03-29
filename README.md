@@ -6,9 +6,10 @@ It was done as the task assignment given by Liveasy Logistics
 https://github.com/sahilsharma17/liveasy_logistics_assignment_app/assets/83007507/de152957-4fdc-4065-a03d-fd6cf5beffaf
 
 
-## Getting Started
+**Note:** If you encounter issues with receiving OTP due to daily quota limits, you can use the following fixed phone number and OTP for testing purposes:
 
-This project is a starting point for a Flutter application.
+- **Phone Number:** +91 8802973445
+- **OTP:** 123456
 
 ## Features
 
